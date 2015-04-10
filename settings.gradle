@@ -1,0 +1,2 @@
+include ':app', ':Emoji'
+project(':Emoji').projectDir = new File('app/libs/Emoji')
